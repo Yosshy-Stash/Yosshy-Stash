@@ -32,4 +32,4 @@ Please include **"Work Inquiry"** in the subject line and a short description of
 
 ---
 
-© 2025-<!-- YEAR:START -->2026<!-- YEAR:END --> Yosshy. All rights reserved.
+© 2026-<!-- YEAR:START -->2026<!-- YEAR:END --> Yosshy. All rights reserved.
