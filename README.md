@@ -1,21 +1,23 @@
 ## Hi there 👋
 
 ### About this account
-This is **Yosshy's Stash** — a secondary account.
+This is **Yosshy's Stash** — a secondary GitHub account.
 
-I use this space to:
-- 🧪 Experiment with ideas and prototypes  
-- 📦 Store side projects, snippets, and drafts  
-- 🌱 Explore new frameworks, tools, and UX concepts  
+I use this account for:
+- 🧪 Experiments and prototypes
+- 📦 Side projects, drafts, and code snippets
+- 🌱 Learning new frameworks, tools, and UX ideas
 
-This account is more casual and experimental compared to my main profile.
+⚠️ This account may contain **unfinished or experimental code**.
+
+For polished projects, long-term work, or professional activities, please visit my main GitHub account **[@Yosshy-123](https://github.com/Yosshy-123)**.
 
 ---
 
 ### About me
-I'm **Yosshy**, a programmer who enjoys building side projects and learning through hands-on development.
+I'm **Yosshy**, a programmer who enjoys building side projects and learning by doing.
 
-Outside of coding, I study **UX design** and like trying out **new technologies**.
+Outside of programming, I study **UX design** and explore **new technologies**.
 
 ---
 
@@ -25,10 +27,10 @@ Email: *Yosshy_123@proton.me*
 ---
 
 ### Work inquiries
-For official or work-related inquiries, please contact me via email.
+Please note: **This account is not intended for commercial or professional work.**
 
-Please include **"Work Inquiry"** in the subject line and a short description of your project.  
-(For polished work and long-term projects, refer to my main account.)
+For work-related or official inquiries, contact me via email.
+Please include **"Work Inquiry"** in the subject line and a brief description of your project.
 
 ---
 
