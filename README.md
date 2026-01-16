@@ -14,13 +14,6 @@ For polished projects, long-term work, or professional activities, please visit 
 
 ---
 
-### About me
-I'm **Yosshy**, a programmer who enjoys building side projects and learning by doing.
-
-Outside of programming, I study **UX design** and explore **new technologies**.
-
----
-
 ### Contact
 Email: *Yosshy_123@proton.me*
 
